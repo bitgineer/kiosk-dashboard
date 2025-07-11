@@ -1,0 +1,255 @@
+{
+  "basics": {
+    "url": {
+      "href": "",
+      "label": ""
+    },
+    "name": "Tommy Heredia",
+    "email": "Tommy.heredia24@gmail.com",
+    "phone": "(347) 671-3269",
+    "picture": {
+      "url": "",
+      "size": 64,
+      "effects": {
+        "border": false,
+        "hidden": false,
+        "grayscale": false
+      },
+      "aspectRatio": 1,
+      "borderRadius": 0
+    },
+    "headline": "",
+    "location": "Baltimore, MD",
+    "customFields": [
+      {
+        "id": "yti7n9892r2hd424sal0e38o",
+        "icon": "linkedin-logo",
+        "name": "Tommy Heredia",
+        "value": "https://www.linkedin.com/in/theredia24/"
+      },
+      {
+        "id": "plx9kgertn6h13vy7y5m2mwx",
+        "icon": "github-logo",
+        "name": "Git",
+        "value": "https://www.github.com/bitgineer"
+      }
+    ]
+  },
+  "metadata": {
+    "css": {
+      "value": "* {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
+      "visible": false
+    },
+    "page": {
+      "format": "a4",
+      "margin": 18,
+      "options": {
+        "breakLine": true,
+        "pageNumbers": true
+      }
+    },
+    "notes": "",
+    "theme": {
+      "text": "#000000",
+      "primary": "#dc2626",
+      "background": "#ffffff"
+    },
+    "layout": [
+      [
+        [
+          "profiles",
+          "summary",
+          "experience",
+          "education",
+          "projects",
+          "volunteer",
+          "references",
+          "custom.bxalhbot9ktj55b7g5azh5l9"
+        ],
+        [
+          "skills",
+          "interests",
+          "certifications",
+          "awards",
+          "publications",
+          "languages"
+        ]
+      ]
+    ],
+    "template": "rhyhorn",
+    "typography": {
+      "font": {
+        "size": 14,
+        "family": "IBM Plex Serif",
+        "subset": "latin",
+        "variants": [
+          "regular",
+          "italic",
+          "600"
+        ]
+      },
+      "hideIcons": false,
+      "lineHeight": 1.5,
+      "underlineLinks": true
+    }
+  },
+  "sections": {
+    "awards": {
+      "id": "awards",
+      "name": "Awards",
+      "items": [],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "custom": {
+      "bxalhbot9ktj55b7g5azh5l9": {
+        "id": "bxalhbot9ktj55b7g5azh5l9",
+        "name": "Custom Section",
+        "items": [],
+        "columns": 1,
+        "visible": true,
+        "separateLinks": true
+      }
+    },
+    "skills": {
+      "id": "skills",
+      "name": "Skills",
+      "items": [],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "summary": {
+      "id": "summary",
+      "name": "Summary",
+      "columns": 1,
+      "content": "<p>Dedicated IT professional with over five years of experience in operations management and compliance within the financial technology sector. Possesses strong technical skills in network management, data communications, and information security, complemented by relevant certifications and comprehensive coursework. Seeking to leverage expertise in programming, database management, and IT operations to contribute to the Office of the Public Defender's mission of providing superior legal representation through effective technology solutions.</p>",
+      "visible": true,
+      "separateLinks": true
+    },
+    "profiles": {
+      "id": "profiles",
+      "name": "Profiles",
+      "items": [],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "projects": {
+      "id": "projects",
+      "name": "Projects",
+      "items": [
+        {
+          "id": "t5adqzjlluv7qc0ok2gvlsna",
+          "url": {
+            "href": "",
+            "label": ""
+          },
+          "date": "",
+          "name": "OpenWRT Network Optimization Project",
+          "summary": "<ul><li><p><strong>Custom Router Configuration:</strong> Configured a custom router running OpenWRT on an x86 hardware platform to manage network traffic and enhance security, including firewall settings, Quality of Service (QoS), and VPN integration.</p></li><li><p><strong>Network Security:</strong> Applied advanced network security protocols to ensure data integrity and protect against unauthorized access, leveraging knowledge from information security coursework.</p></li></ul>",
+          "visible": true,
+          "keywords": [],
+          "description": ""
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "education": {
+      "id": "education",
+      "name": "Education",
+      "items": [
+        {
+          "id": "phzjh23di3vntol10sywovwr",
+          "url": {
+            "href": "",
+            "label": ""
+          },
+          "area": "STEM",
+          "date": "Fall 2022 - Spring 2025",
+          "score": "",
+          "summary": "<ul><li><p><strong>Introduction to Data Communications (DCOM 101):</strong> Acquired foundational knowledge in data communications, networking hardware (servers, switches, routers), networking software (OS, protocols, services), and network management, including virtualization and cloud computing.</p></li><li><p><strong>Introduction to Information Security (DCOM 258):</strong> Developed skills in assessing enterprise security, monitoring and securing physical and virtual environments, responding to security incidents, and understanding security-based laws and policies.</p></li><li><p><strong>Database Concepts (CSIT 154):</strong> Gained expertise in database design and implementation, SQL for data manipulation and retrieval, data modeling, security, data integrity, and recovery processes.</p></li><li><p><strong>Introduction to Programming (CSIT 210):</strong> Enhanced problem-solving abilities through algorithm design, data structures, and object-oriented programming using [specify programming language, e.g., Java or Python].</p></li><li><p><strong>Web Standards (CSIT 121):</strong> Learned HTML, XHTML, CSS, XML, and WAI standards to develop accessible and standards-compliant web pages.</p></li><li><p><strong>Technology and Information Systems (CSIT 101):</strong> Explored emerging computer hardware, software, processes, and the ethical/global impacts of technological integration.</p></li><li><p><strong>Fundamentals of Logic and Design (CSIT 111):</strong> Studied programming concepts, logic design, algorithm implementation, and object-oriented development.</p></li><li><p><strong>Introduction to Linux/UNIX (DCOM 142):</strong> Practiced command-line utilities, shell scripting, network commands, user and group management, and permissions configuration.</p></li></ul>",
+          "visible": true,
+          "studyType": "Information Technology ",
+          "institution": "Community College of Baltimore County"
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "interests": {
+      "id": "interests",
+      "name": "Interests",
+      "items": [],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "languages": {
+      "id": "languages",
+      "name": "Languages",
+      "items": [],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "volunteer": {
+      "id": "volunteer",
+      "name": "Volunteering",
+      "items": [],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "experience": {
+      "id": "experience",
+      "name": "Experience",
+      "items": [
+        {
+          "id": "z5jo47wdgkrdq9qv9m011jdo",
+          "url": {
+            "href": "",
+            "label": ""
+          },
+          "date": "06/2019 – present",
+          "company": "Evergreen ATM",
+          "summary": "<ul><li><p><strong>Network Management:</strong> Ensured 24/7 uptime for GetCoins ATMs by monitoring network performance and promptly resolving maintenance issues, utilizing data communication and network management skills.</p></li><li><p><strong>Operational Efficiency:</strong> Streamlined operations department activities, enhancing company policies and standards through process optimization and IT system improvements.</p></li><li><p><strong>Project Coordination:</strong> Led the expansion of the company's cryptocurrency terminal network by identifying and securing new merchant locations, demonstrating project management and database management capabilities.</p></li><li><p><strong>Contractor Management:</strong> Recruited and supervised third-party technician contractors via the FieldNation platform, leveraging management information systems to track and manage contractor activities.</p></li></ul>",
+          "visible": true,
+          "location": "",
+          "position": "Operations Manager"
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "references": {
+      "id": "references",
+      "name": "References",
+      "items": [],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "publications": {
+      "id": "publications",
+      "name": "Publications",
+      "items": [],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "certifications": {
+      "id": "certifications",
+      "name": "Certifications",
+      "items": [],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    }
+  }
+}

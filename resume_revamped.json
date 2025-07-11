@@ -1,0 +1,441 @@
+{
+  "basics": {
+    "url": {
+      "href": "https://yourportfolio.com",
+      "label": "Portfolio"
+    },
+    "name": "Your Name",
+    "email": "your.email@gmail.com",
+    "phone": "(555) 123-4567",
+    "picture": {
+      "url": "",
+      "size": 64,
+      "effects": {
+        "border": false,
+        "hidden": false,
+        "grayscale": false
+      },
+      "aspectRatio": 1,
+      "borderRadius": 0
+    },
+    "headline": "DevOps Automation Engineer | Blockchain Infrastructure Specialist",
+    "location": "Portland, OR",
+    "customFields": [
+      {
+        "id": "linkedin1",
+        "icon": "linkedin-logo",
+        "name": "LinkedIn",
+        "value": "https://www.linkedin.com/in/yourprofile/"
+      },
+      {
+        "id": "github1",
+        "icon": "github-logo",
+        "name": "GitHub",
+        "value": "https://www.github.com/yourprofile"
+      }
+    ]
+  },
+  "metadata": {
+    "css": {
+      "value": "",
+      "visible": false
+    },
+    "page": {
+      "format": "a4",
+      "margin": 18,
+      "options": {
+        "breakLine": true,
+        "pageNumbers": true
+      }
+    },
+    "notes": "",
+    "theme": {
+      "text": "#000000",
+      "primary": "#2563eb",
+      "background": "#ffffff"
+    },
+    "layout": [
+      [
+        [
+          "profiles",
+          "summary",
+          "experience",
+          "projects",
+          "education",
+          "certifications"
+        ],
+        [
+          "skills",
+          "custom.bxalhbot9ktj55b7g5azh5l9",
+          "interests"
+        ]
+      ]
+    ],
+    "template": "rhyhorn",
+    "typography": {
+      "font": {
+        "size": 14,
+        "family": "IBM Plex Sans",
+        "subset": "latin",
+        "variants": [
+          "regular",
+          "italic",
+          "600"
+        ]
+      },
+      "hideIcons": false,
+      "lineHeight": 1.5,
+      "underlineLinks": true
+    }
+  },
+  "sections": {
+    "awards": {
+      "id": "awards",
+      "name": "Awards",
+      "items": [],
+      "columns": 1,
+      "visible": false,
+      "separateLinks": true
+    },
+    "custom": {
+      "bxalhbot9ktj55b7g5azh5l9": {
+        "id": "bxalhbot9ktj55b7g5azh5l9",
+        "name": "Key Achievements",
+        "items": [
+          {
+            "id": "achievement1",
+            "url": {
+              "href": "",
+              "label": ""
+            },
+            "date": "2019 - Present",
+            "name": "Process Automation Excellence",
+            "summary": "Reduced manual workload by 80% through automated monitoring and notification systems across 500+ Bitcoin ATM network",
+            "description": "Automation Engineering Achievement",
+            "location": "Portland, OR",
+            "visible": true
+          },
+          {
+            "id": "achievement2",
+            "url": {
+              "href": "",
+              "label": ""
+            },
+            "date": "2023 - Present",
+            "name": "Revenue Impact & Growth",
+            "summary": "Increased customer review collection by 300% driving business reputation and sales through automated engagement systems",
+            "description": "Business Impact Achievement",
+            "location": "Portland, OR",
+            "visible": true
+          },
+          {
+            "id": "achievement3",
+            "url": {
+              "href": "",
+              "label": ""
+            },
+            "date": "2022 - Present",
+            "name": "Operational Excellence",
+            "summary": "Achieved 95%+ uptime across distributed cryptocurrency ATM network through proactive monitoring and automated alert systems",
+            "description": "Operations Management Achievement",
+            "location": "Portland, OR",
+            "visible": true
+          },
+          {
+            "id": "achievement4",
+            "url": {
+              "href": "",
+              "label": ""
+            },
+            "date": "2023 - Present",
+            "name": "Innovation Leadership",
+            "summary": "Built enterprise-grade solutions using AI-assisted development, reverse-engineered APIs, and cutting-edge automation frameworks",
+            "description": "Technical Innovation Achievement",
+            "location": "Portland, OR",
+            "visible": true
+          }
+        ],
+        "columns": 1,
+        "visible": true,
+        "separateLinks": true
+      }
+    },
+    "skills": {
+      "id": "skills",
+      "name": "Technical Skills",
+      "items": [
+        {
+          "id": "skill1",
+          "name": "Programming",
+          "description": "",
+          "level": 4,
+          "keywords": ["Node.js", "JavaScript", "Python", "SQL"],
+          "visible": true
+        },
+        {
+          "id": "skill2",
+          "name": "DevOps & Automation",
+          "description": "",
+          "level": 5,
+          "keywords": ["Process Automation", "API Integration", "Workflow Optimization", "CI/CD"],
+          "visible": true
+        },
+        {
+          "id": "skill3",
+          "name": "Blockchain & Crypto",
+          "description": "",
+          "level": 4,
+          "keywords": ["Bitcoin", "Ethereum", "Transaction Monitoring", "Blockchain APIs"],
+          "visible": true
+        },
+        {
+          "id": "skill4",
+          "name": "Infrastructure",
+          "description": "",
+          "level": 4,
+          "keywords": ["Network Management", "Database Design", "Real-time Monitoring", "System Architecture"],
+          "visible": true
+        },
+        {
+          "id": "skill5",
+          "name": "Data & Analytics",
+          "description": "",
+          "level": 3,
+          "keywords": ["SQLite", "Data Visualization", "Dashboard Development", "Performance Metrics"],
+          "visible": true
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "summary": {
+      "id": "summary",
+      "name": "Professional Summary",
+      "columns": 1,
+      "content": "<p>Innovative DevOps Automation Engineer with 5+ years of experience transforming manual operations into scalable, automated solutions. Proven track record of building enterprise-grade monitoring systems, blockchain transaction processors, and customer engagement platforms that drive both operational efficiency and revenue growth. Expert in AI-assisted development, API integration, and reverse engineering complex systems. Seeking to leverage automation expertise and problem-solving skills in a senior technical role where I can continue building cutting-edge solutions that optimize workflows and drive business impact.</p>",
+      "visible": true,
+      "separateLinks": true
+    },
+    "profiles": {
+      "id": "profiles",
+      "name": "Profiles",
+      "items": [],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "projects": {
+      "id": "projects",
+      "name": "Featured Projects",
+      "items": [
+        {
+          "id": "project1",
+          "url": {
+            "href": "https://github.com/yourprofile/atm-monitoring",
+            "label": "GitHub"
+          },
+          "date": "2024 - Present",
+          "name": "Blockchain ATM Transaction Monitoring & Review Automation System",
+          "summary": "<ul><li><p><strong>Impact:</strong> Automated customer review collection increasing feedback by 300% and improving business reputation</p></li><li><p><strong>Architecture:</strong> Built full-stack Node.js application with Express.js backend, SQLite database, and real-time Socket.IO dashboard</p></li><li><p><strong>Blockchain Integration:</strong> Implemented multi-cryptocurrency support (BTC, ETH, USDC, USDT, LTC) with automated confirmation tracking</p></li><li><p><strong>Communication Systems:</strong> Integrated Telegram Bot API and Zendesk for automated customer outreach and review requests</p></li><li><p><strong>Analytics:</strong> Built comprehensive tracking system for review lifecycle, click analytics, and customer engagement metrics</p></li></ul>",
+          "visible": true,
+          "keywords": ["Node.js", "Express.js", "SQLite", "Blockchain APIs", "Automation"],
+          "description": ""
+        },
+        {
+          "id": "project2",
+          "url": {
+            "href": "https://github.com/yourprofile/kiosk-dashboard",
+            "label": "GitHub"
+          },
+          "date": "2023 - Present",
+          "name": "Real-Time Kiosk Monitoring Dashboard",
+          "summary": "<ul><li><p><strong>Scale:</strong> Monitors 500+ Bitcoin ATMs across the United States with 95%+ uptime achievement</p></li><li><p><strong>Real-time Operations:</strong> Built background workflow system running every 10 minutes to detect and alert on hardware issues</p></li><li><p><strong>Emergency Response:</strong> Automated Telegram notifications for critical issues, reducing response time by 70%</p></li><li><p><strong>Visualization:</strong> Created interactive maps, charts, and analytics dashboard for operations team</p></li><li><p><strong>Data Management:</strong> Implemented SQLite-based historical tracking and issue analytics system</p></li></ul>",
+          "visible": true,
+          "keywords": ["Real-time Monitoring", "Socket.IO", "SQLite", "API Integration", "Dashboard"],
+          "description": ""
+        },
+        {
+          "id": "project3",
+          "url": {
+            "href": "https://github.com/yourprofile/api-reverse-engineering",
+            "label": "GitHub"
+          },
+          "date": "2023 - 2024",
+          "name": "Enterprise API Reverse Engineering & Integration",
+          "summary": "<ul><li><p><strong>Innovation:</strong> Reverse engineered proprietary APIs by analyzing network traffic and creating comprehensive API documentation</p></li><li><p><strong>Authentication:</strong> Built automated token management system with refresh capabilities for sustained API access</p></li><li><p><strong>Integration:</strong> Created robust API wrapper libraries enabling seamless data exchange and automation</p></li><li><p><strong>Security:</strong> Implemented secure credential management and error handling for production environments</p></li></ul>",
+          "visible": true,
+          "keywords": ["API Development", "Reverse Engineering", "Authentication", "Security"],
+          "description": ""
+        },
+        {
+          "id": "project4",
+          "url": {
+            "href": "https://github.com/yourprofile/network-optimization",
+            "label": "GitHub"
+          },
+          "date": "2022 - 2023",
+          "name": "OpenWRT Network Infrastructure Optimization",
+          "summary": "<ul><li><p><strong>Custom Configuration:</strong> Built enterprise-grade router solution on OpenWRT/x86 platform for enhanced network performance</p></li><li><p><strong>Security Implementation:</strong> Applied advanced firewall configurations, QoS management, and VPN integration</p></li><li><p><strong>Performance Optimization:</strong> Achieved 40% improvement in network throughput through traffic management and optimization</p></li></ul>",
+          "visible": true,
+          "keywords": ["OpenWRT", "Network Security", "VPN", "Performance Optimization"],
+          "description": ""
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "education": {
+      "id": "education",
+      "name": "Education & Continuous Learning",
+      "items": [
+        {
+          "id": "education1",
+          "url": {
+            "href": "",
+            "label": ""
+          },
+          "area": "Information Technology",
+          "date": "Fall 2022 - Spring 2025 (Expected)",
+          "score": "",
+          "summary": "<ul><li><p><strong>Associate of Applied Science (AAS):</strong> 1 course remaining, transitioning to Bachelor's degree program</p></li><li><p><strong>Core Competencies:</strong> Data Communications, Information Security, Database Design, Programming Fundamentals</p></li><li><p><strong>Specialized Coursework:</strong> Linux/UNIX Administration, Web Standards, Network Management, Algorithm Design</p></li><li><p><strong>Practical Application:</strong> Applied coursework knowledge directly to real-world automation projects and system optimization</p></li></ul>",
+          "visible": true,
+          "studyType": "Associate of Applied Science",
+          "institution": "Community College of Baltimore County"
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "interests": {
+      "id": "interests",
+      "name": "Professional Interests",
+      "items": [
+        {
+          "id": "interest1",
+          "name": "AI-Assisted Development",
+          "keywords": ["AI Coding Agents", "Automation", "Workflow Optimization"],
+          "visible": true
+        },
+        {
+          "id": "interest2",
+          "name": "DevOps & Infrastructure",
+          "keywords": ["Process Automation", "Monitoring Systems", "Performance Optimization"],
+          "visible": true
+        },
+        {
+          "id": "interest3",
+          "name": "Blockchain Technology",
+          "keywords": ["Cryptocurrency", "Transaction Processing", "Distributed Systems"],
+          "visible": true
+        },
+        {
+          "id": "interest4",
+          "name": "System Architecture",
+          "keywords": ["API Design", "Database Optimization", "Real-time Systems"],
+          "visible": true
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "languages": {
+      "id": "languages",
+      "name": "Languages",
+      "items": [
+        {
+          "id": "lang1",
+          "name": "English",
+          "description": "",
+          "level": 5,
+          "visible": true
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "volunteer": {
+      "id": "volunteer",
+      "name": "Volunteering",
+      "items": [],
+      "columns": 1,
+      "visible": false,
+      "separateLinks": true
+    },
+    "experience": {
+      "id": "experience",
+      "name": "Professional Experience",
+      "items": [
+        {
+          "id": "exp1",
+          "url": {
+            "href": "",
+            "label": ""
+          },
+          "date": "June 2019 – Present",
+          "company": "Evergreen ATM",
+          "summary": "<ul><li><p><strong>Automation Engineering:</strong> Transformed manual operational processes into automated systems, reducing manual workload by 80% and improving response times by 70%</p></li><li><p><strong>Enterprise Architecture:</strong> Designed and built full-stack monitoring applications serving 500+ Bitcoin ATMs with real-time dashboard capabilities and automated alert systems</p></li><li><p><strong>Revenue Impact:</strong> Developed customer engagement automation that increased review collection by 300%, directly contributing to business growth and reputation management</p></li><li><p><strong>API Development:</strong> Reverse engineered proprietary systems to create robust API integrations, enabling seamless data flow and automation across business processes</p></li><li><p><strong>Team Leadership:</strong> Managed distributed contractor network via FieldNation platform, optimizing technician deployment and reducing average issue resolution time</p></li><li><p><strong>Innovation Driver:</strong> Pioneered use of AI-assisted development tools (Cursor, GitHub Copilot) to rapidly prototype and deploy production-ready solutions</p></li></ul>",
+          "visible": true,
+          "location": "Portland, OR",
+          "position": "DevOps Automation Engineer / Operations Manager"
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "references": {
+      "id": "references",
+      "name": "References",
+      "items": [],
+      "columns": 1,
+      "visible": false,
+      "separateLinks": true
+    },
+    "publications": {
+      "id": "publications",
+      "name": "Publications",
+      "items": [],
+      "columns": 1,
+      "visible": false,
+      "separateLinks": true
+    },
+    "certifications": {
+      "id": "certifications",
+      "name": "Certifications",
+      "items": [
+        {
+          "id": "cert1",
+          "url": {
+            "href": "",
+            "label": ""
+          },
+          "date": "Current",
+          "name": "CompTIA A+",
+          "summary": "Core 1 & Core 2 - Hardware and software troubleshooting, networking, and security fundamentals",
+          "issuer": "CompTIA",
+          "visible": true
+        },
+        {
+          "id": "cert2",
+          "url": {
+            "href": "",
+            "label": ""
+          },
+          "date": "Current",
+          "name": "CompTIA Security+",
+          "summary": "Cybersecurity fundamentals, risk management, and security architecture",
+          "issuer": "CompTIA",
+          "visible": true
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "name": "api-reverse-engineering",
+  "version": "1.0.0",
+  "description": "Advanced toolkit for reverse engineering proprietary APIs and building production-ready integration libraries",
+  "main": "src/integration/apiWrapper.js",
+  "scripts": {
+    "start": "node examples/basicUsage.js",
+    "analyze": "node tools/capture/browserAutomation.js",
+    "analyze:har": "node tools/analysis/harAnalyzer.js",
+    "docs:generate": "node tools/generators/docGenerator.js",
+    "docs:serve": "http-server docs/ -p 8080",
+    "test": "jest",
+    "test:auth": "jest --testPathPattern=authentication",
+    "test:integration": "jest --testPathPattern=integration",
+    "test:coverage": "jest --coverage",
+    "lint": "eslint src/",
+    "lint:fix": "eslint src/ --fix",
+    "build": "npm run lint && npm test"
+  },
+  "keywords": [
+    "api",
+    "reverse-engineering",
+    "integration",
+    "automation",
+    "network-analysis",
+    "authentication",
+    "wrapper",
+    "documentation",
+    "nodejs",
+    "puppeteer",
+    "har-analysis",
+    "security"
+  ],
+  "author": "Your Name <your.email@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourprofile/api-reverse-engineering.git"
+  },
+  "dependencies": {
+    "axios": "^1.5.0",
+    "puppeteer": "^21.1.1",
+    "cheerio": "^1.0.0-rc.12",
+    "jsonwebtoken": "^9.0.2",
+    "crypto-js": "^4.1.1",
+    "dotenv": "^16.3.1",
+    "winston": "^3.10.0",
+    "yargs": "^17.7.2",
+    "har-validator": "^5.1.5",
+    "url-parse": "^1.5.10",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "jest": "^29.6.4",
+    "eslint": "^8.47.0",
+    "http-server": "^14.1.1",
+    "nock": "^13.3.3"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
+  }
+}

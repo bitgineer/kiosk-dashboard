@@ -1,0 +1,334 @@
+{
+  "basics": {
+    "url": {
+      "href": "https://yourportfolio.com",
+      "label": "Portfolio"
+    },
+    "name": "Tommy Heredia",
+    "email": "tommy.heredia24@gmail.com",
+    "phone": "(347) 671-3269",
+    "picture": {
+      "url": "",
+      "size": 64,
+      "effects": {
+        "border": false,
+        "hidden": false,
+        "grayscale": false
+      },
+      "aspectRatio": 1,
+      "borderRadius": 0
+    },
+    "headline": "DevOps Automation Engineer | Blockchain Infrastructure Specialist",
+    "location": "Portland, OR",
+    "customFields": [
+      {
+        "id": "linkedin1",
+        "icon": "linkedin-logo",
+        "name": "LinkedIn",
+        "value": "https://www.linkedin.com/in/theredia24/"
+      },
+      {
+        "id": "github1",
+        "icon": "github-logo",
+        "name": "GitHub",
+        "value": "https://www.github.com/bitgineer"
+      }
+    ]
+  },
+  "metadata": {
+    "css": {
+      "value": "",
+      "visible": false
+    },
+    "page": {
+      "format": "a4",
+      "margin": 18,
+      "options": {
+        "breakLine": true,
+        "pageNumbers": false
+      }
+    },
+    "notes": "",
+    "theme": {
+      "text": "#000000",
+      "primary": "#2563eb",
+      "background": "#ffffff"
+    },
+    "layout": [
+      [
+        [
+          "summary",
+          "experience",
+          "projects",
+          "education"
+        ],
+        [
+          "skills",
+          "custom.bxalhbot9ktj55b7g5azh5l9",
+          "certifications"
+        ]
+      ]
+    ],
+    "template": "rhyhorn",
+    "typography": {
+      "font": {
+        "size": 11,
+        "family": "IBM Plex Sans",
+        "subset": "latin",
+        "variants": [
+          "regular",
+          "italic",
+          "600"
+        ]
+      },
+      "hideIcons": false,
+      "lineHeight": 1.4,
+      "underlineLinks": true
+    }
+  },
+  "sections": {
+    "awards": {
+      "id": "awards",
+      "name": "Awards",
+      "items": [],
+      "columns": 1,
+      "visible": false,
+      "separateLinks": true
+    },
+    "custom": {
+      "bxalhbot9ktj55b7g5azh5l9": {
+        "id": "bxalhbot9ktj55b7g5azh5l9",
+        "name": "Career Objective",
+        "items": [
+          {
+            "id": "objective1",
+            "url": {
+              "href": "",
+              "label": ""
+            },
+            "date": "",
+            "name": "Target Role",
+            "summary": "Seeking Senior DevOps Engineer or Automation Specialist role (90k+ range) to leverage proven track record of building scalable automation solutions that drive measurable business impact. Available within 3 months.",
+            "description": "Career Goal",
+            "location": "",
+            "visible": true
+          }
+        ],
+        "columns": 1,
+        "visible": true,
+        "separateLinks": true
+      }
+    },
+    "skills": {
+      "id": "skills",
+      "name": "Technical Skills",
+      "items": [
+        {
+          "id": "skill1",
+          "name": "Programming",
+          "description": "",
+          "level": 4,
+          "keywords": ["Node.js", "JavaScript", "Python", "SQL"],
+          "visible": true
+        },
+        {
+          "id": "skill2",
+          "name": "DevOps & Automation",
+          "description": "",
+          "level": 5,
+          "keywords": ["Process Automation", "API Integration", "Real-time Monitoring", "CI/CD"],
+          "visible": true
+        },
+        {
+          "id": "skill3",
+          "name": "Blockchain",
+          "description": "",
+          "level": 4,
+          "keywords": ["Bitcoin", "Ethereum", "Multi-crypto APIs", "Transaction Processing"],
+          "visible": true
+        },
+        {
+          "id": "skill4",
+          "name": "Infrastructure",
+          "description": "",
+          "level": 4,
+          "keywords": ["SQLite", "OpenWRT", "VPN", "QoS", "Socket.IO"],
+          "visible": true
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "summary": {
+      "id": "summary",
+      "name": "Professional Summary",
+      "columns": 1,
+      "content": "<p>Innovative <strong>DevOps Automation Engineer</strong> with 5+ years transforming manual operations into scalable solutions. Built enterprise-grade monitoring systems serving 500+ Bitcoin ATMs, achieving <strong>300% increase in customer reviews</strong> and <strong>80% reduction in manual workload</strong>. Expert in AI-assisted development, API integration, and blockchain infrastructure.</p>",
+      "visible": true,
+      "separateLinks": true
+    },
+    "profiles": {
+      "id": "profiles",
+      "name": "Profiles",
+      "items": [],
+      "columns": 1,
+      "visible": false,
+      "separateLinks": true
+    },
+    "projects": {
+      "id": "projects",
+      "name": "Featured Projects",
+      "items": [
+        {
+          "id": "project1",
+          "url": {
+            "href": "https://github.com/bitgineer/atm-monitoring",
+            "label": "GitHub"
+          },
+          "date": "2024",
+          "name": "Blockchain ATM Transaction Monitoring & Review Automation",
+          "summary": "<p><strong>Technologies:</strong> Node.js, Express.js, SQLite, Socket.IO, Blockchain APIs</p><ul><li>Automated customer review system increasing feedback by <strong>300%</strong> and driving business growth</li><li>Multi-cryptocurrency support (BTC, ETH, USDC, USDT, LTC) with real-time confirmation tracking</li><li>Integrated Telegram Bot API and Zendesk for automated customer outreach</li></ul>",
+          "visible": true,
+          "keywords": ["Node.js", "Express.js", "SQLite", "Blockchain"],
+          "description": ""
+        },
+        {
+          "id": "project2",
+          "url": {
+            "href": "https://github.com/bitgineer/kiosk-dashboard",
+            "label": "GitHub"
+          },
+          "date": "2023",
+          "name": "Real-Time Kiosk Monitoring Dashboard",
+          "summary": "<p><strong>Technologies:</strong> Socket.IO, Express.js, SQLite, Telegram API</p><ul><li>Monitors <strong>500+ Bitcoin ATMs</strong> nationwide with <strong>95%+ uptime</strong> achievement</li><li>Background workflow system detecting hardware issues every 10 minutes</li><li><strong>70% reduction</strong> in emergency response time through automated alerts</li></ul>",
+          "visible": true,
+          "keywords": ["Socket.IO", "Real-time", "Monitoring"],
+          "description": ""
+        },
+        {
+          "id": "project3",
+          "url": {
+            "href": "https://github.com/bitgineer/api-reverse-engineering",
+            "label": "GitHub"
+          },
+          "date": "2023",
+          "name": "Enterprise API Reverse Engineering Toolkit",
+          "summary": "<p><strong>Technologies:</strong> Network Analysis, Authentication Systems, API Development</p><ul><li>Reverse engineered proprietary APIs enabling seamless automation where official docs didn't exist</li><li>Built production-ready wrapper libraries with automated token management</li></ul>",
+          "visible": true,
+          "keywords": ["API Development", "Reverse Engineering"],
+          "description": ""
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "education": {
+      "id": "education",
+      "name": "Education",
+      "items": [
+        {
+          "id": "education1",
+          "url": {
+            "href": "",
+            "label": ""
+          },
+          "area": "Information Technology",
+          "date": "2025 (Expected)",
+          "score": "",
+          "summary": "",
+          "visible": true,
+          "studyType": "Associate of Applied Science",
+          "institution": "Community College of Baltimore County"
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "interests": {
+      "id": "interests",
+      "name": "Interests",
+      "items": [],
+      "columns": 1,
+      "visible": false,
+      "separateLinks": true
+    },
+    "languages": {
+      "id": "languages",
+      "name": "Languages",
+      "items": [],
+      "columns": 1,
+      "visible": false,
+      "separateLinks": true
+    },
+    "volunteer": {
+      "id": "volunteer",
+      "name": "Volunteering",
+      "items": [],
+      "columns": 1,
+      "visible": false,
+      "separateLinks": true
+    },
+    "experience": {
+      "id": "experience",
+      "name": "Professional Experience",
+      "items": [
+        {
+          "id": "exp1",
+          "url": {
+            "href": "",
+            "label": ""
+          },
+          "date": "June 2019 – Present",
+          "company": "Evergreen ATM",
+          "summary": "<ul><li><strong>Enterprise Automation:</strong> Built full-stack monitoring applications serving <strong>500+ Bitcoin ATMs</strong> with 95%+ uptime</li><li><strong>Revenue Impact:</strong> Developed customer engagement automation increasing review collection by <strong>300%</strong></li><li><strong>Process Optimization:</strong> Reduced manual workload by <strong>80%</strong> through automated monitoring and alert systems</li><li><strong>API Development:</strong> Reverse engineered proprietary systems creating robust integration libraries</li><li><strong>Innovation Leadership:</strong> Pioneered AI-assisted development using Cursor and GitHub Copilot for rapid prototyping</li></ul>",
+          "visible": true,
+          "location": "Portland, OR",
+          "position": "DevOps Automation Engineer / Operations Manager"
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "references": {
+      "id": "references",
+      "name": "References",
+      "items": [],
+      "columns": 1,
+      "visible": false,
+      "separateLinks": true
+    },
+    "publications": {
+      "id": "publications",
+      "name": "Publications",
+      "items": [],
+      "columns": 1,
+      "visible": false,
+      "separateLinks": true
+    },
+    "certifications": {
+      "id": "certifications",
+      "name": "Certifications",
+      "items": [
+        {
+          "id": "cert1",
+          "url": {
+            "href": "",
+            "label": ""
+          },
+          "date": "Current",
+          "name": "CompTIA A+ & Security+",
+          "summary": "Core hardware, networking, and cybersecurity fundamentals",
+          "issuer": "CompTIA",
+          "visible": true
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    }
+  }
+}
